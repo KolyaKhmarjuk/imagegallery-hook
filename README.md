@@ -1,1 +1,1 @@
-# react-3-imagegallery-hook
+# imagegallery-hook
