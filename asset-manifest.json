@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imagegallery-hook/static/css/main.21f0cdd6.css",
+    "main.js": "/imagegallery-hook/static/js/main.725fece9.js",
+    "index.html": "/imagegallery-hook/index.html",
+    "main.21f0cdd6.css.map": "/imagegallery-hook/static/css/main.21f0cdd6.css.map",
+    "main.725fece9.js.map": "/imagegallery-hook/static/js/main.725fece9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21f0cdd6.css",
+    "static/js/main.725fece9.js"
+  ]
+}
